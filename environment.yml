@@ -1,9 +1,0 @@
-name: optics-hw1
-
-dependencies:
-    - python=3.4
-    - numpy
-    - matplotlib
-    - pandas
-    - pip:
-        - git+https://github.com/blaze/dask.git#egg=dask[complete]
